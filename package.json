@@ -1,0 +1,13 @@
+{
+  "name": "aero-interview",
+  "description": "Aero interview.",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": "Gian Costa",
+  "dependencies": {
+    "haversine": "^1.1.0"
+  }
+}
